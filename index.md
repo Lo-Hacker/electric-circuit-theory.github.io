@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Electric circuit theory GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Lo-Hacker/electric-circuit-theory.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
