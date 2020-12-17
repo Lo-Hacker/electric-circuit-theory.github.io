@@ -4,18 +4,19 @@ You can use the [editor on GitHub](https://github.com/Lo-Hacker/electric-circuit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Exercises
+## Exercises
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Exercise Generator
+## Arduino Laboratory
+Do you want to put into practice what you have studied? Don't have an educational laboratory available? Then the [Arduino](https://www.youtube.com/playlist?list=PLTUiZz9ic8dGnGcF4f2TXGYtYC5C-FNG4) laboratory is for you!
 
+## Traditional Laboratory
+## Thesis
 ```markdown
 Syntax highlighted code block
 
-# Exercise Generator
-## Arduino Laboratory
-Do you want to put into practice what you have studied? Don't have an educational laboratory available? Then the [Arduino](https://www.youtube.com/playlist?list=PLTUiZz9ic8dGnGcF4f2TXGYtYC5C-FNG4) laboratory is for you!
-### Traditional Laboratory
-# Thesis
+
 
 
 - Bulleted
