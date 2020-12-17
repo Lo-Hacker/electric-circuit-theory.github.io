@@ -12,7 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Do you want to put into practice what you have studied? Don't have an educational laboratory available? Then the [Arduino](https://www.youtube.com/playlist?list=PLTUiZz9ic8dGnGcF4f2TXGYtYC5C-FNG4) laboratory is for you!
 
 ## Traditional Laboratory
+Do you have an educational laboratory available and don't you  know where to start? Are you a student of the Politecnico di Torino and want to gain experience in the laboratory? Then download the[material](http://led.polito.it/main_it/material.asp) and start learning right away!
+
 ## Thesis
+
 ```markdown
 Syntax highlighted code block
 
