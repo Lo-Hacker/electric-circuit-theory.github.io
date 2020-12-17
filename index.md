@@ -1,19 +1,22 @@
 ## Welcome to Electrical circuit theory GitHub Pages
-
+Here you can find all the material useful for studying electrical circuits
 You can use the [editor on GitHub](https://github.com/Lo-Hacker/electric-circuit-theory.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Exercises
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Exercise Generator
+## Arduino Laboratory
+Do you want to put into practice what you have studied? Don't have an educational laboratory available? Then the [Arduino](https://www.youtube.com/playlist?list=PLTUiZz9ic8dGnGcF4f2TXGYtYC5C-FNG4) laboratory is for you!
+### Traditional Laboratory
+# Thesis
+
 
 - Bulleted
 - List
